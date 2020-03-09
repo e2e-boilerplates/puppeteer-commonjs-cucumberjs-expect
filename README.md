@@ -6,7 +6,7 @@ Puppeteer end-to-end test automation boilerplate, using Commonjs, Cucumber and E
 
 ## Getting Started
 
-    	git clone git@github.com:e2e-boilerplate/puppeteer-commonjs-cucumber-expect.git
-    	cd puppeteer-commonjs-cucumber-expect
-    	npm install
-    	npm run test
+    	1. git clone git@github.com:e2e-boilerplate/puppeteer-commonjs-cucumber-expect.git
+    	2. cd puppeteer-commonjs-cucumber-expect
+    	3. npm install
+    	4. npm run test
