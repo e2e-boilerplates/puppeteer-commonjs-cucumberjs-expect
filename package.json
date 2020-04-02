@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "cucumber": "6.0.5",
-    "expect": "25.2.4",
+    "expect": "25.2.6",
     "puppeteer": "2.1.1"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using Commonjs, Cucumber and Expect.",
