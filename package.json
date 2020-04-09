@@ -16,7 +16,11 @@
     "eslint-plugin-cucumber": "1.4.0",
     "eslint-plugin-import": "2.20.2",
     "eslint-plugin-prettier": "3.1.2",
+<<<<<<< HEAD
     "husky": "4.2.3",
+=======
+    "husky": "4.2.5",
+>>>>>>> 09f342a5bab1e99b5cc3dcf04330d3b37cd93bab
     "prettier": "2.0.4",
     "pretty-quick": "2.0.1"
   },
