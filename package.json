@@ -28,15 +28,16 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "commonjs",
     "cucumber",
+    "expect",
+    "puppeteer",
     "e2e",
     "e2e tests",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "puppeteer"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
